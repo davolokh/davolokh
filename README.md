@@ -7,7 +7,8 @@
   - Mentor at [Rolling Scopes School](https://github.com/orgs/rolling-scopes-school)
 - Previously:
   - Frontend Engineer at [PandaDoc](https://github.com/pandadoc)
-  - Software Engineer at JVL Labs, EpamSystems
+  - Software Engineer at JVL Labs
+  - Junior-Senior Software Engineer Epam Systems
 
 ## Contacts:
 
