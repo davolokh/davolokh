@@ -1,14 +1,24 @@
 # Dmitry Volokh
 
+Software Engineer
+
+Warsaw, PL
+
 ## About
 
 - Currrently:
   - Engineering Team Lead at [Orca Security](https://github.com/orcasecurity)
   - Mentor at [Rolling Scopes School](https://github.com/orgs/rolling-scopes-school)
-- Previously:
+- Former:
   - Frontend Engineer at [PandaDoc](https://github.com/pandadoc)
-  - Software Engineer at JVL Labs
-  - Junior-Senior Software Engineer Epam Systems
+  - Software Engineer at [JVL Labs](https://www.linkedin.com/company/jvl-corporation)
+  - Junior-Senior Software Engineer [Epam Systems](https://www.epam.com)
+
+
+## Pet Projects:
+- [webpack-feature-flags-plugin](https://github.com/davolokh/webpack-feature-flags-plugin)
+- [http://dependencies.info/](http://dependencies.info/)
+
 
 ## Contacts:
 
