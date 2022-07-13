@@ -1,13 +1,13 @@
 # Dmitry Volokh
 
-Software Engineer
+Software Engineering Manager
 
 Warsaw, PL
 
 ## About
 
 - Currrently:
-  - Engineering Team Lead at [Orca Security](https://github.com/orcasecurity)
+  - Director of RnD at [Orca Security](https://github.com/orcasecurity)
   - Mentor at [Rolling Scopes School](https://github.com/orgs/rolling-scopes-school)
 - Former:
   - Frontend Engineer at [PandaDoc](https://github.com/pandadoc)
