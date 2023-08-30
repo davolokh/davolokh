@@ -7,9 +7,10 @@ Warsaw, PL
 ## About
 
 - Currrently:
-  - Director of RnD at [Orca Security](https://github.com/orcasecurity)
+  - Engineering Manager at [Stacklok](https://github.com/stacklok)
   - Mentor at [Rolling Scopes School](https://github.com/orgs/rolling-scopes-school)
 - Former:
+  - Director of RnD at [Orca Security](https://github.com/orcasecurity)
   - Frontend Engineer at [PandaDoc](https://github.com/pandadoc)
   - Software Engineer at [JVL Labs](https://www.linkedin.com/company/jvl-corporation)
   - Junior-Senior Software Engineer [Epam Systems](https://www.epam.com)
